@@ -15,6 +15,8 @@ the benefit of Static Routing Protocol is that a router generates no routing pro
 
 it is recommended for a hub-and-spoke topology with low-speed remote connection. A default static route is configed at each remote side because the hub is the only route used to each other sites.
 
+![hub and spoke](https://www.researchgate.net/publication/297600508/figure/fig2/AS:337841608511489@1457559124395/Point-to-Point-vs-Hub-and-Spoke-Systems.png)
+
 # Dynamic (Routing Protocols)
 
 However the size of today's network makes it impossible to manually config and maintain all he routes in all the routers in a timely manner.
