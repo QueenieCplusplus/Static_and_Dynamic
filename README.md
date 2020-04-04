@@ -43,7 +43,7 @@ EIGRP (Interior)
 
 OSPF (Interior) https://github.com/QueenieCplusplus/OSPF
 
-IS-IS (Interior)
+IS-IS (Interior) https://github.com/QueenieCplusplus/IS_IS
 
 BGP (Exterior)
 
