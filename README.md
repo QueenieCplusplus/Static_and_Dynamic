@@ -11,7 +11,7 @@ Because static routes are unidirectional, they must be configed for each outging
 
 the benefit of Static Routing Protocol is that a router generates no routing protocol overheads, due to no bandwidth consumption for advertisements between network devices (Router-Router or Router-SW).
 
-# Suitable Circumstance (Hub) for Statics
+# Suitable Circumstance (Hub & Spoke Mode) for Statics
 
 it is recommended for a hub-and-spoke topology with low-speed remote connection. A default static route is configed at each remote side because the hub is the only route used to each other sites.
 
