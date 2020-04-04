@@ -7,6 +7,8 @@ The one exception is when the static route specifies the outbound interface: If 
 
 Because static routes are unidirectional, they must be configed for each outging interface the router will use.
 
+However the size of today's network makes it impossible to manually config and maintain all he routes in all the routers in a timely manner.
+
 
 
 
