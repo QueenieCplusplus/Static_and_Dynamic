@@ -9,7 +9,7 @@ The one exception is when the static route specifies the outbound interface: If 
 
 Because static routes are unidirectional, they must be configed for each outging interface the router will use.
 
-the benefit of Static Routing Protocol is that a router generates no routing protocol overheads.
+the benefit of Static Routing Protocol is that a router generates no routing protocol overheads, due to no bandwidth consumption for advertisements between network devices (Router-Router or Router-SW).
 
 # Dynamic (Routing Protocols)
 
