@@ -45,7 +45,7 @@ OSPF (Interior) https://github.com/QueenieCplusplus/OSPF
 
 IS-IS (Interior) https://github.com/QueenieCplusplus/IS_IS
 
-BGP (Exterior)
+BGP (Exterior) https://github.com/QueenieCplusplus/BGP
 
 EGP (Exterior)
 
