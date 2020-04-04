@@ -33,6 +33,22 @@ But human config can involve many mistakes, which is why dynamic routing protoco
 
 They use algorithm to advertise and learn about changes in the network topology.
 
+Dynamic Routing Protocols:
+
+RIP (Interior)
+
+IGRP (Interior)
+
+EIGRP (Interior)
+
+OSPF (Interior)
+
+IS-IS (Interior)
+
+BGP (Exterior)
+
+EGP (Exterior)
+
 
 
 
