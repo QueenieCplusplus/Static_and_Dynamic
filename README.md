@@ -17,6 +17,12 @@ it is recommended for a hub-and-spoke topology with low-speed remote connection.
 
 ![hub and spoke](https://transportgeography.org/wp-content/uploads/2017/10/point_hub_network.png)
 
+Point-to-point and hub-and-spoke networks are at the opposite ends of the connectivity spectrum. A point-to-point network connects directly a set of locations without any interruption of services (e.g. pick up or drop off) even if the route itself may not be direct.
+
+A (pure) hub-and-spoke network connects every location through a single intermediary location called a hub. Hub-and-spoke, as a network structure, allows for greater flexibility within the transport system through a concentration of flows.
+
+On the above figure, a point-to-point network involves 16 independent connections, each to be serviced by vehicles and infrastructures. By using a hub-and-spoke structure, only 8 connections are required. 
+
 # Dynamic (Routing Protocols)
 
 However the size of today's network makes it impossible to manually config and maintain all he routes in all the routers in a timely manner.
