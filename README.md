@@ -9,6 +9,10 @@ Because static routes are unidirectional, they must be configed for each outging
 
 However the size of today's network makes it impossible to manually config and maintain all he routes in all the routers in a timely manner.
 
+But human config can involve many mistakes, which is why dynamic routing protocol exists.
+
+They use algorithm to advertise and learn about changes in the network topology.
+
 
 
 
