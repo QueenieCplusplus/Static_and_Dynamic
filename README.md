@@ -13,6 +13,8 @@ the benefit of Static Routing Protocol is that a router generates no routing pro
 
 # Suitable Circumstance (Hub & Spoke Mode) for Statics
 
+軸輻式設計
+
 it is recommended for a hub-and-spoke topology with low-speed remote connection. A default static route is configed at each remote side because the hub is the only route used to each other sites.
 
 ![hub and spoke](https://transportgeography.org/wp-content/uploads/2017/10/point_hub_network.png)
