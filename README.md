@@ -35,15 +35,15 @@ They use algorithm to advertise and learn about changes in the network topology.
 
 Dynamic Routing Protocols:
 
-RIP (Interior)
+RIP (Interior, distance vetor) https://github.com/QueenieCplusplus/RIP
 
-IGRP (Interior)
+IGRP (Interior, distance vector)
 
-EIGRP (Interior)
+EIGRP (Interior, distance vector)
 
-OSPF (Interior) https://github.com/QueenieCplusplus/OSPF
+OSPF (Interior, LSA) https://github.com/QueenieCplusplus/OSPF
 
-IS-IS (Interior) https://github.com/QueenieCplusplus/IS_IS
+IS-IS (Interior, LSA) https://github.com/QueenieCplusplus/IS_IS
 
 BGP (Exterior) https://github.com/QueenieCplusplus/BGP
 
