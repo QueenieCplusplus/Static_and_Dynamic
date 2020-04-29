@@ -1,4 +1,4 @@
-# Static_and_Dynamic
+# Static Routing and Dynamic Routing for Private IP
 comparison between them
 
 # Static 
