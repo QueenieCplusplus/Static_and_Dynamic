@@ -7,7 +7,7 @@ comparison between them
 
 # Static
 
-![static] (https://www.facebook.com/2730376213642836/photos/pcb.4236886592991783/4236886289658480/?type=3&theater)
+![static](https://www.facebook.com/2730376213642836/photos/pcb.4236886592991783/4236886289658480/?type=3&theater)
 
 Static Routes are config on a router. They don't react to network outages. 
 
